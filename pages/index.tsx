@@ -25,8 +25,8 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Play Bird Mansion 🎉</title>
-        <meta name="description" content="The Play Bird Mansion NFT" />
+        <title>Bad Bitch Nft 🎉</title>
+        <meta name="description" content="Bad Bitch NFT" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
