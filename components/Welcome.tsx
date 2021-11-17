@@ -11,7 +11,7 @@ export const Welcome: React.FC<WelcomeProps> = ({ }) => {
         🎉 WELCOME TO THE 🎉
       </p>
       <p className='pt-1 tracking-wide font-alfa pb-8 leading-none font-black text-[2.68rem] sm:text-[4.20rem] flex-row text-transparent bg-clip-text animate-gradient-x bg-gradient-to-r to-[#0CF2FF] from-[#F709FF] ml-2'>
-        Bad Bitch
+        BADBITCH NFT
       </p>
 
       <div className='pb-2 items-center text-center text-white text-[.8rem] sm:text-[1.1rem] px-4 sm:px-20'>

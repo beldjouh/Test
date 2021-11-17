@@ -16,8 +16,8 @@ export const Logo: React.FC<LogoProps> = ({ }) => {
         </div>
 
         <div className='logo-text pl-2 text-center hidden sm:flex flex-col'>
-            <p className=''>PLAYBIRD</p>
-            <p className=''>MANSION</p>
+            <p className=''>BADBITCH</p>
+            <p className=''>NFT</p>
         </div>
 
       </div>

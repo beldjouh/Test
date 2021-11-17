@@ -29,7 +29,7 @@ export const Roadmap: React.FC<RoadmapProps> = ({ }) => {
             Launch 🚀
           </div>
           <div className=' text-[1.1rem]'>
-            The Play Bird Mansion NFTs begin minting! OpenSea trading begins! Referral Contest begins!
+            The Play BADBITCH NFTs begin minting! OpenSea trading begins! Referral Contest begins!
           </div>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -41,7 +41,7 @@ export const Roadmap: React.FC<RoadmapProps> = ({ }) => {
             Website Gallery 🖼
           </div>
           <div className=' text-[1.1rem]'>
-            Ability to view all your NFT birds and download custom artwork featuring the birds in your wallet!
+            Ability to view all your NFT birds and download custom artwork featuring the BADBITCH in your wallet!
           </div>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -53,7 +53,7 @@ export const Roadmap: React.FC<RoadmapProps> = ({ }) => {
             NFT Gaming 🎮
           </div>
           <div className=' text-[1.1rem]'>
-            Integrated Browser Game (Flappy Bird inspired), where you can play as your Party Bird and earn rewards!
+            Integrated Browser Game, where you can play as your Party BADBITCH and earn rewards!
           </div>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -77,7 +77,7 @@ export const Roadmap: React.FC<RoadmapProps> = ({ }) => {
             Airdrop 🎁
           </div>
           <div className=' text-[1.1rem]'>
-            All birds will lay an Egg that is airdropped to current Play Bird Mansion NFT holders! We will list on rarity.tools & and party with more exclusive events!
+            All BADBITCH will lay an Egg that is airdropped to current Play BADBITCH  NFT holders! We will list on rarity.tools & and party with more exclusive events!
           </div>
         </VerticalTimelineElement>
       </VerticalTimeline>

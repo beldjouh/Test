@@ -166,7 +166,7 @@ export const MintApp: React.FC<MintAppProps> = ({ }) => {
           <form onSubmit={handleSubmit}>
             <div className='flex flex-col'>
               <input
-                id='numBirds'
+                id='BadBitch'
                 step='1'
                 type='number'
                 max='20'

@@ -31,10 +31,10 @@ export const Referral: React.FC<ReferralProps> = ({}) => {
           4th Place: 0.5 ETH
         </li>
         <li className='p-2 text-[.9rem] font-light'>
-          5th Place: 2 Free Play Bird NFTs
+          5th Place: 2 Free Play BADBITCH NFTs
         </li>
         <li className='p-2 text-[.9rem] font-light'>
-          6-10th Place: 1 Free Play Bird NFT
+          6-10th Place: 1 Free Play BADBITCH NFT
         </li>
       </div>
     </div>
