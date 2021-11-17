@@ -15,7 +15,7 @@ export const Welcome: React.FC<WelcomeProps> = ({ }) => {
       </p>
 
       <div className='pb-2 items-center text-center text-white text-[.8rem] sm:text-[1.1rem] px-4 sm:px-20'>
-        A collection of 6,969 algorithmically generated Party Birds. Mint a Bird for access to the NFT party community, future airdrops, play-to-earn gaming and more! We party on the Polygon blockchain, so you don’t need to worry about gas fees.
+        A collection of 10.000 algorithmically generated BADBITCH. Mint a BATDBITCH for access to the NFT party community, future airdrops, play-to-earn gaming and more! We party on the Polygon blockchain, so you don’t need to worry about gas fees.
       </div>
     </div>
   )

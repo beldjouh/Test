@@ -11,15 +11,15 @@ export const Perks: React.FC<PerksProps> = ({ }) => {
         Mansion Amenities
       </div>
       <div className='text-center text-white text-[1.1rem] pb-4 px-8 leading-none justify-center'>
-        When you mint a Bird you will have exclusive access to the Mansion, parties, and more benefits.
+        When you mint a BADBITCH you will have exclusive access to the Mansion, parties, and more benefits.
       </div>
       <div className='text-center text-white text-[1.36rem] pt-2 px-8 leading-none justify-center'>
         Including:
         <li className='pt-4 p-2 text-[1.2rem] font-light'>
-          Owning full rights to your Play Bird, and able to use it however you wish.
+          Owning full rights to your BADBITCH, and able to use it however you wish.
         </li>
         <li className='pt-4 p-2 text-[1.2rem] font-light'>
-          Early Access to all things Play Bird Mansion
+          Early Access to all things BADBITCH Mansion
         </li>
         <li className='pt-4 p-2 text-[1.2rem] font-light'>
           Member Only Giveaways and Contests
