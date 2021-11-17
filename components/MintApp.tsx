@@ -73,7 +73,7 @@ export const MintApp: React.FC<MintAppProps> = ({ }) => {
       try {
         await token.methods.mintBird(numberOfBirds).send({ value: amount, from: account });
       } catch (e) {
-        console.error('Error, mintBird: ', e);
+        console.error('Error, mintBADBITCH: ', e);
       }
     }
   }
@@ -85,7 +85,7 @@ export const MintApp: React.FC<MintAppProps> = ({ }) => {
         window.location.reload();
       }
       catch (e) {
-        console.error('Error, mintBirdWithReferral: ', e);
+        console.error('Error, mintBADBITCHWithReferral: ', e);
       }
     }
   }
@@ -193,10 +193,10 @@ export const MintApp: React.FC<MintAppProps> = ({ }) => {
           </form>
         </div>
         <div className='pt-2 font-semibold text-[1.15rem] leading-none mt-3'>
-          Price: 10 MATIC / Bird
+          Price: 10 MATIC / BADBITCH
         </div>
         <div className='leading-none py-2 font-extralight text-[.75rem]'>
-          Max: 20 Birds per Transaction
+          Max: 20 BADBITCH per Transaction
         </div>
         <div className='pt-2 text-[.85rem] font-medium'>
           Use a referral address for a 1 MATIC discount.

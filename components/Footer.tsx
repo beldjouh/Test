@@ -30,7 +30,7 @@ export const Footer: React.FC<FooterProps> = ({ }) => {
             <div className='pr-2 text-[.9rem]'>Contract</div><LinkOut size='12' />
           </div>
         </a>
-      <FooterItem name='Play Bird Mansion | All Rights Reserved' href='' />
+      <FooterItem name='BADBITCH | All Rights Reserved' href='' />
     </footer>
   )
 }
